@@ -1,6 +1,6 @@
 ## General
 
-### Dates and location
+### 日期與地點
 
 GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
 
