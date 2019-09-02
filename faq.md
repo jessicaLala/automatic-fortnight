@@ -2,7 +2,7 @@
 
 ### 日期與地點
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+2019年11月16號(六) 花蓮 GDG DevFest 將舉辦在[藍天麗池飯店](https://www.google.com/maps/place/970%E8%8A%B1%E8%93%AE%E7%B8%A3%E8%8A%B1%E8%93%AE%E5%B8%82%E4%B8%AD%E6%AD%A3%E8%B7%AF590%E8%99%9F/@23.9789525,121.6080005,17z/data=!3m1!4b1!4m5!3m4!1s0x34689fc16ec7e107:0x84b2303b7507c07b!8m2!3d23.9789525!4d121.6101892)二樓
 
 ### Stay Informed
 
