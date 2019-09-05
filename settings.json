@@ -1,7 +1,7 @@
 {
-  "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
+  "主辦團隊": {
+    "name": "GDG Hualien",
+    "twitter": "gdghualien",
     "blog": "https://medium.com/gdg-lviv",
     "url": "http://lviv.gdg.org.ua/"
   },
@@ -21,32 +21,32 @@
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "首頁"
     },
     {
       "route": "speakers",
       "permalink": "/speakers/",
-      "label": "Speakers"
+      "label": "講者"
     },
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "議程"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "團隊"
     },
     {
       "route": "blog",
       "permalink": "/blog/",
-      "label": "Blog"
+      "label": "部落格"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "當一個好青年. 加入 GDG!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -54,7 +54,7 @@
       "fontColor": "#FFF"
     },
     "blog": {
-      "title": "Blog",
+      "title": "部落格",
       "metaDescription": "Read stories from our team",
       "background": {
         "color": "#FFF"
@@ -62,7 +62,7 @@
       "fontColor": "#424242"
     },
     "speakers": {
-      "title": "Speakers",
+      "title": "講者",
       "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "background": {
@@ -114,8 +114,8 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
+    "city": "花蓮",
+    "short": "花蓮, 台灣",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
       "latitude": 49.809841,
